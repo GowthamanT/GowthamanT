@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://grandtoday.in"><img width="200px" height="200px" src="https://i.ibb.co/W5ftKF0/Grand-Today-Icon.png" alt="Grand-Today" border="0"/></a>
+<a href="https://grandtoday.in"><img src="https://i.ibb.co/FsVcM0N/1612586358267.jpg" alt="Create More" border="0"/></a>
 </div>
 
 <h1 align="center"> Gowthaman Thirunavukkarasu</h1>
