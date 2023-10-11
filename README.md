@@ -1,15 +1,12 @@
 <div align="center">
-<a href="https://grandtoday.in"><img src="https://i.ibb.co/FsVcM0N/1612586358267.jpg" alt="Create More" border="0"/></a>
+<a href="https://gowthamant.in"><img src="https://i.ibb.co/FsVcM0N/1612586358267.jpg" alt="Create More" border="0"/></a>
 </div>
 
 <h1 align="center"> Gowthaman Thirunavukkarasu</h1>
-<p align="center"> Web Developer | Designer | Entrepreneur</p>
-<br>
-
-- 👋 Hi, I’m Gowthaman
-- 👀 I’m interested in Creating New Things.
-- 🌱 I’m currently Building my <b>Portfolio</b>.
-- 💞️ I’m looking to collaborate on <b>Website development</b> and <b>Designing</b>.
+<p align="center"> Developer | Web Enthusiast </p>
+<p>
+    I am a Developer by Passion & Profession. I love good UI, well built Application with good UX. Basically I love Front-End ❤. I am a skilled Angular developer with a passion for crafting clean and efficient code while adhering to best practices and industry standards. Now currently working in a Full stack space.
+</p>
 
 <br>
 
@@ -34,8 +31,6 @@
 
 <a href = "mailto:happygowthaman@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
 <a href = "https://www.linkedin.com/in/gowthaman-thirunavukkarasu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/gowthaman_gt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/gowthaman_gt/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
 
